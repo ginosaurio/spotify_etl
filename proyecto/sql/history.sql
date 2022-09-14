@@ -1,0 +1,5 @@
+CREATE TABLE history (
+	played_at TIMESTAMP PRIMARY KEY,
+	artist VARCHAR(255) NOT NULL,
+	track VARCHAR(255) NOT NULL
+);
