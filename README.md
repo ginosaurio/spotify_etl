@@ -12,7 +12,7 @@ https://developer.spotify.com/dashboard/applications
 
 Luego ingresar a la aplicación creada, obtener las key "Client ID" y "Client Secret" e ingresarlas en el archivo settings.ini
 
-Después ingresar a "Edit Settings" agregar una dirección la cual puede ser tipo "http://ejemplo.com" el cual no es necesario que exista, solo se usará al momento de ejecutar el archivo main.py, el cual solicitará ingresar el link generado que se abrirá en el navegador que servirá como autenticación la primera vez, más información en la siguiente pagina.
+Después ingresar a "Edit Settings" agregar una dirección la cual puede ser tipo "http://ejemplo.com" el cual no es necesario que exista, solo se usará para agregar en settings.ini y además, al momento de ejecutar el archivo main.py, el cual solicitará ingresar el link generado que se abrirá en el navegador que servirá como autenticación la primera vez la cual se debe coiar y pegar en la terminal, más información en la siguiente pagina.
 
 https://spotipy.readthedocs.io/en/master/#quick-start
 
